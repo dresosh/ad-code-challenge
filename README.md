@@ -69,7 +69,7 @@ npm install -g pnpm
 **Navigate to your project directory and run:**
 
 ```bash
-pnpm install or pnpm i
+pnpm install
 ```
 
 ### Running the Development Server:

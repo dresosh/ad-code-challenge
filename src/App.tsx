@@ -14,7 +14,7 @@ function App() {
           Before you dive in, take a moment to familiarize yourself with the
           provided{" "}
           <a
-            href="../README.md"
+            href="https://github.com/dresosh/ad-code-challenge#readme"
             className=" group-hover:text-stone-950 transition-all duration-300"
           >
             documentation and requirements
